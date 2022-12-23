@@ -1,2 +1,2 @@
-# image-editing
-To get various images
+# Image-editing
+Easiest way of editing images using open CV
